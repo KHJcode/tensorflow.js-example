@@ -25,4 +25,4 @@ $ npm run start-server
 $ yarn start-server
 ```
 
-### authorship: https://github.com/tensorflow/tfjs-examples/tree/master/baseball-node
+#### authorship: https://github.com/tensorflow/tfjs-examples/tree/master/baseball-node
